@@ -1,0 +1,336 @@
+Date: 1/3/2024
+Time: 12:31
+Phone Number: recipient_whatsapp_number
+Image: screen_image.jpg
+Caption: Assistance needed. Assistance asked at 2024-03-01 12:31:10.841375 at location https://maps.app.goo.gl/VkYcM33XBkL2JU6Q6
+--------------------
+Date: 1/3/2024
+Time: 12:35
+Group ID: 9262938405
+Image: screen_image.jpg
+Caption: Assistance needed. Assistance asked at 2024-03-01 12:35:36.435455 at location https://maps.app.goo.gl/VkYcM33XBkL2JU6Q6
+--------------------
+Date: 1/3/2024
+Time: 12:36
+Group ID: 9262938405
+Image: screen_image.jpg
+Caption: Assistance needed. Assistance asked at 2024-03-01 12:36:12.464581 at location https://maps.app.goo.gl/VkYcM33XBkL2JU6Q6
+--------------------
+Date: 1/3/2024
+Time: 12:37
+Phone Number: +919262938405
+Image: screen_image.jpg
+Caption: Assistance needed. Assistance asked at 2024-03-01 12:37:08.625628 at location https://maps.app.goo.gl/VkYcM33XBkL2JU6Q6
+--------------------
+Date: 1/3/2024
+Time: 13:52
+Phone Number: +919262938405
+Image: screen_image.jpg
+Caption: Assistance needed. Assistance asked at 2024-03-01 13:52:18.831356 at location https://maps.app.goo.gl/VkYcM33XBkL2JU6Q6
+--------------------
+Date: 1/3/2024
+Time: 14:8
+Phone Number: +919262938405
+Image: screen_image.jpg
+Caption: Assistance needed. Assistance asked at 2024-03-01 14:08:05.787975 at location https://maps.app.goo.gl/VkYcM33XBkL2JU6Q6
+--------------------
+Date: 1/3/2024
+Time: 14:25
+Phone Number: +919262938405
+Image: screen_image.jpg
+Caption: Assistance needed. Assistance asked at 2024-03-01 14:25:19.622651 at location https://maps.app.goo.gl/VkYcM33XBkL2JU6Q6
+--------------------
+Date: 1/3/2024
+Time: 14:47
+Phone Number: +919262938405
+Image: screen_image.jpg
+Caption: Assistance needed. Assistance asked at 2024-03-01 14:47:21.168059 at location https://maps.app.goo.gl/VkYcM33XBkL2JU6Q6
+--------------------
+Date: 1/3/2024
+Time: 14:48
+Phone Number: +919262938405
+Image: screen_image.jpg
+Caption: Assistance needed. Assistance asked at 2024-03-01 14:48:08.953720 at location https://maps.app.goo.gl/VkYcM33XBkL2JU6Q6
+--------------------
+Date: 1/3/2024
+Time: 14:48
+Phone Number: +919262938405
+Image: screen_image.jpg
+Caption: Assistance needed. Assistance asked at 2024-03-01 14:48:14.005020 at location https://maps.app.goo.gl/VkYcM33XBkL2JU6Q6
+--------------------
+Date: 1/3/2024
+Time: 14:50
+Phone Number: +919262938405
+Image: screen_image.jpg
+Caption: Assistance needed. Assistance asked at 2024-03-01 14:50:13.998062 at location https://maps.app.goo.gl/VkYcM33XBkL2JU6Q6
+--------------------
+Date: 1/3/2024
+Time: 14:50
+Phone Number: +919262938405
+Image: screen_image.jpg
+Caption: Assistance needed. Assistance asked at 2024-03-01 14:50:46.104546 at location https://maps.app.goo.gl/VkYcM33XBkL2JU6Q6
+--------------------
+Date: 1/3/2024
+Time: 14:50
+Phone Number: +919262938405
+Image: screen_image.jpg
+Caption: Assistance needed. Assistance asked at 2024-03-01 14:50:51.153909 at location https://maps.app.goo.gl/VkYcM33XBkL2JU6Q6
+--------------------
+Date: 1/3/2024
+Time: 14:51
+Phone Number: +919262938405
+Image: screen_image.jpg
+Caption: Assistance needed. Assistance asked at 2024-03-01 14:51:23.274789 at location https://maps.app.goo.gl/VkYcM33XBkL2JU6Q6
+--------------------
+Date: 1/3/2024
+Time: 14:55
+Phone Number: +919262938405
+Image: screen_image.jpg
+Caption: Assistance needed. Assistance asked at 2024-03-01 14:55:14.877559 at location https://maps.app.goo.gl/VkYcM33XBkL2JU6Q6
+--------------------
+Date: 1/3/2024
+Time: 14:56
+Phone Number: +919262938405
+Image: screen_image.jpg
+Caption: Assistance needed. Assistance asked at 2024-03-01 14:56:07.508709 at location https://maps.app.goo.gl/VkYcM33XBkL2JU6Q6
+--------------------
+Date: 1/3/2024
+Time: 14:56
+Phone Number: +919262938405
+Image: screen_image.jpg
+Caption: Assistance needed. Assistance asked at 2024-03-01 14:56:28.162601 at location https://maps.app.goo.gl/VkYcM33XBkL2JU6Q6
+--------------------
+Date: 1/3/2024
+Time: 15:0
+Phone Number: +919262938405
+Image: screen_image.jpg
+Caption: Assistance needed. Assistance asked at 2024-03-01 15:00:17.303360 at location https://maps.app.goo.gl/VkYcM33XBkL2JU6Q6
+--------------------
+Date: 1/3/2024
+Time: 15:1
+Phone Number: +919262938405
+Image: screen_image.jpg
+Caption: Assistance needed. Assistance asked at 2024-03-01 15:01:24.366021 at location https://maps.app.goo.gl/VkYcM33XBkL2JU6Q6
+--------------------
+Date: 1/3/2024
+Time: 15:1
+Phone Number: +919262938405
+Image: screen_image.jpg
+Caption: Assistance needed. Assistance asked at 2024-03-01 15:01:29.430722 at location https://maps.app.goo.gl/VkYcM33XBkL2JU6Q6
+--------------------
+Date: 1/3/2024
+Time: 15:3
+Phone Number: +919262938405
+Image: screen_image.jpg
+Caption: Assistance needed. Assistance asked at 2024-03-01 15:03:32.897133 at location https://maps.app.goo.gl/VkYcM33XBkL2JU6Q6
+--------------------
+Date: 1/3/2024
+Time: 15:5
+Phone Number: +919262938405
+Image: screen_image.jpg
+Caption: Assistance needed. Assistance asked at 2024-03-01 15:05:40.267983 at location https://maps.app.goo.gl/VkYcM33XBkL2JU6Q6
+--------------------
+Date: 1/3/2024
+Time: 15:34
+Phone Number: +919262938405
+Image: screen_image.jpg
+Caption: Assistance needed. Assistance asked at 2024-03-01 15:34:32.702911 at location https://maps.app.goo.gl/VkYcM33XBkL2JU6Q6
+--------------------
+Date: 1/3/2024
+Time: 15:34
+Phone Number: +919262938405
+Image: screen_image.jpg
+Caption: Assistance needed. Assistance asked at 2024-03-01 15:34:34.999349 at location https://maps.app.goo.gl/VkYcM33XBkL2JU6Q6
+--------------------
+Date: 1/3/2024
+Time: 15:34
+Phone Number: +919262938405
+Image: screen_image.jpg
+Caption: Assistance needed. Assistance asked at 2024-03-01 15:34:37.192324 at location https://maps.app.goo.gl/VkYcM33XBkL2JU6Q6
+--------------------
+Date: 1/3/2024
+Time: 15:34
+Phone Number: +919262938405
+Image: screen_image.jpg
+Caption: Assistance needed. Assistance asked at 2024-03-01 15:34:39.439893 at location https://maps.app.goo.gl/VkYcM33XBkL2JU6Q6
+--------------------
+Date: 1/3/2024
+Time: 15:34
+Phone Number: +919262938405
+Image: screen_image.jpg
+Caption: Assistance needed. Assistance asked at 2024-03-01 15:34:41.555502 at location https://maps.app.goo.gl/VkYcM33XBkL2JU6Q6
+--------------------
+Date: 1/3/2024
+Time: 15:34
+Phone Number: +919262938405
+Image: screen_image.jpg
+Caption: Assistance needed. Assistance asked at 2024-03-01 15:34:43.746919 at location https://maps.app.goo.gl/VkYcM33XBkL2JU6Q6
+--------------------
+Date: 1/3/2024
+Time: 15:34
+Phone Number: +919262938405
+Image: screen_image.jpg
+Caption: Assistance needed. Assistance asked at 2024-03-01 15:34:45.900300 at location https://maps.app.goo.gl/VkYcM33XBkL2JU6Q6
+--------------------
+Date: 1/3/2024
+Time: 15:34
+Phone Number: +919262938405
+Image: screen_image.jpg
+Caption: Assistance needed. Assistance asked at 2024-03-01 15:34:48.030087 at location https://maps.app.goo.gl/VkYcM33XBkL2JU6Q6
+--------------------
+Date: 1/3/2024
+Time: 15:34
+Phone Number: +919262938405
+Image: screen_image.jpg
+Caption: Assistance needed. Assistance asked at 2024-03-01 15:34:50.234315 at location https://maps.app.goo.gl/VkYcM33XBkL2JU6Q6
+--------------------
+Date: 1/3/2024
+Time: 15:34
+Phone Number: +919262938405
+Image: screen_image.jpg
+Caption: Assistance needed. Assistance asked at 2024-03-01 15:34:52.487815 at location https://maps.app.goo.gl/VkYcM33XBkL2JU6Q6
+--------------------
+Date: 1/3/2024
+Time: 15:34
+Phone Number: +919262938405
+Image: screen_image.jpg
+Caption: Assistance needed. Assistance asked at 2024-03-01 15:34:54.637200 at location https://maps.app.goo.gl/VkYcM33XBkL2JU6Q6
+--------------------
+Date: 1/3/2024
+Time: 15:34
+Phone Number: +919262938405
+Image: screen_image.jpg
+Caption: Assistance needed. Assistance asked at 2024-03-01 15:34:56.870548 at location https://maps.app.goo.gl/VkYcM33XBkL2JU6Q6
+--------------------
+Date: 1/3/2024
+Time: 16:47
+Phone Number: +919262938405
+Image: screen_image.jpg
+Caption: Assistance needed. Assistance asked at 2024-03-01 16:47:31.313286 at location https://maps.app.goo.gl/VkYcM33XBkL2JU6Q6
+--------------------
+Date: 1/3/2024
+Time: 16:47
+Phone Number: +919262938405
+Image: screen_image.jpg
+Caption: Assistance needed. Assistance asked at 2024-03-01 16:47:33.416470 at location https://maps.app.goo.gl/VkYcM33XBkL2JU6Q6
+--------------------
+Date: 1/3/2024
+Time: 16:48
+Phone Number: +919262938405
+Image: screen_image.jpg
+Caption: Assistance needed. Assistance asked at 2024-03-01 16:48:30.683529 at location https://maps.app.goo.gl/VkYcM33XBkL2JU6Q6
+--------------------
+Date: 1/3/2024
+Time: 16:49
+Phone Number: +919262938405
+Image: screen_image.jpg
+Caption: Assistance needed. Assistance asked at 2024-03-01 16:49:11.986796 at location https://maps.app.goo.gl/VkYcM33XBkL2JU6Q6
+--------------------
+Date: 1/3/2024
+Time: 16:49
+Phone Number: +919262938405
+Image: screen_image.jpg
+Caption: Assistance needed. Assistance asked at 2024-03-01 16:49:14.115503 at location https://maps.app.goo.gl/VkYcM33XBkL2JU6Q6
+--------------------
+Date: 1/3/2024
+Time: 16:49
+Phone Number: +919262938405
+Image: screen_image.jpg
+Caption: Assistance needed. Assistance asked at 2024-03-01 16:49:16.201106 at location https://maps.app.goo.gl/VkYcM33XBkL2JU6Q6
+--------------------
+Date: 1/3/2024
+Time: 16:49
+Phone Number: +919262938405
+Image: screen_image.jpg
+Caption: Assistance needed. Assistance asked at 2024-03-01 16:49:18.283942 at location https://maps.app.goo.gl/VkYcM33XBkL2JU6Q6
+--------------------
+Date: 1/3/2024
+Time: 16:49
+Phone Number: +919262938405
+Image: screen_image.jpg
+Caption: Assistance needed. Assistance asked at 2024-03-01 16:49:21.811529 at location https://maps.app.goo.gl/VkYcM33XBkL2JU6Q6
+--------------------
+Date: 1/3/2024
+Time: 16:51
+Phone Number: +919262938405
+Image: screen_image.jpg
+Caption: Assistance needed. Assistance asked at 2024-03-01 16:51:21.287874 at location https://maps.app.goo.gl/VkYcM33XBkL2JU6Q6
+--------------------
+Date: 1/3/2024
+Time: 16:51
+Phone Number: +919262938405
+Image: screen_image.jpg
+Caption: Assistance needed. Assistance asked at 2024-03-01 16:51:23.442064 at location https://maps.app.goo.gl/VkYcM33XBkL2JU6Q6
+--------------------
+Date: 1/3/2024
+Time: 16:51
+Phone Number: +919262938405
+Image: screen_image.jpg
+Caption: Assistance needed. Assistance asked at 2024-03-01 16:51:25.557320 at location https://maps.app.goo.gl/VkYcM33XBkL2JU6Q6
+--------------------
+Date: 1/3/2024
+Time: 16:51
+Phone Number: +919262938405
+Image: screen_image.jpg
+Caption: Assistance needed. Assistance asked at 2024-03-01 16:51:27.732984 at location https://maps.app.goo.gl/VkYcM33XBkL2JU6Q6
+--------------------
+Date: 1/3/2024
+Time: 16:51
+Phone Number: +919262938405
+Image: screen_image.jpg
+Caption: Assistance needed. Assistance asked at 2024-03-01 16:51:29.889872 at location https://maps.app.goo.gl/VkYcM33XBkL2JU6Q6
+--------------------
+Date: 1/3/2024
+Time: 16:51
+Phone Number: +919262938405
+Image: screen_image.jpg
+Caption: Assistance needed. Assistance asked at 2024-03-01 16:51:32.003318 at location https://maps.app.goo.gl/VkYcM33XBkL2JU6Q6
+--------------------
+Date: 1/3/2024
+Time: 16:51
+Phone Number: +919262938405
+Image: screen_image.jpg
+Caption: Assistance needed. Assistance asked at 2024-03-01 16:51:34.157469 at location https://maps.app.goo.gl/VkYcM33XBkL2JU6Q6
+--------------------
+Date: 1/3/2024
+Time: 16:51
+Phone Number: +919262938405
+Image: screen_image.jpg
+Caption: Assistance needed. Assistance asked at 2024-03-01 16:51:36.348686 at location https://maps.app.goo.gl/VkYcM33XBkL2JU6Q6
+--------------------
+Date: 1/3/2024
+Time: 16:51
+Phone Number: +919262938405
+Image: screen_image.jpg
+Caption: Assistance needed. Assistance asked at 2024-03-01 16:51:38.529283 at location https://maps.app.goo.gl/VkYcM33XBkL2JU6Q6
+--------------------
+Date: 1/3/2024
+Time: 16:51
+Phone Number: +919262938405
+Image: screen_image.jpg
+Caption: Assistance needed. Assistance asked at 2024-03-01 16:51:40.728663 at location https://maps.app.goo.gl/VkYcM33XBkL2JU6Q6
+--------------------
+Date: 1/3/2024
+Time: 16:51
+Phone Number: +919262938405
+Image: screen_image.jpg
+Caption: Assistance needed. Assistance asked at 2024-03-01 16:51:42.915618 at location https://maps.app.goo.gl/VkYcM33XBkL2JU6Q6
+--------------------
+Date: 1/3/2024
+Time: 16:59
+Phone Number: +919262938405
+Image: screen_image.jpg
+Caption: Assistance needed. Assistance asked at 2024-03-01 16:59:15.051511 at location https://maps.app.goo.gl/VkYcM33XBkL2JU6Q6
+--------------------
+Date: 1/3/2024
+Time: 17:4
+Phone Number: +919262938405
+Image: screen_image.jpg
+Caption: Assistance needed. Assistance asked at 2024-03-01 17:04:10.545703 at location https://maps.app.goo.gl/VkYcM33XBkL2JU6Q6
+--------------------
+Date: 1/3/2024
+Time: 17:5
+Phone Number: +919262938405
+Image: screen_image.jpg
+Caption: Assistance needed. Assistance asked at 2024-03-01 17:05:39.735632 at location https://maps.app.goo.gl/VkYcM33XBkL2JU6Q6
+--------------------

@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Talaghattapura Police Station Admin Panel</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <nav class="navbar">
+        <div class="logo-container">
+            <img src="kapolicelogo.webp" alt="Talaghattapura Police Station Logo" class="logo">
+            <h1 class="logo-text">Talaghattapura Police Station</h1>
+        </div>
+        <ul class="nav-links">
+            <li><a href="#" class="active">Home</a></li>
+            <li><a href="http://127.0.0.1:5000">Assistance Requested</a></li>
+            
+        </ul>
+    </nav>
+    
+
+    <div class="container">
+        <aside class="sidebar">
+            <h2>Notifications</h2>
+            <ul class="notifications">
+                <!-- Notifications will be added dynamically using JavaScript -->
+            </ul>
+        </aside>
+        <main class="main-content">
+            
+            <div class="camera-feeds">
+                
+                <a href="http://192.168.203.151:8080/video" target="_blank" class="camera-feed-link">
+                    <iframe class="camera-feed" src="http://192.168.203.151:8080/video" frameborder="0"></iframe>
+                </a>
+                <a href="http://192.168.203.151:8080/video" target="_blank" class="camera-feed-link">
+                    <iframe class="camera-feed" src="http://192.168.203.151:8080/video" frameborder="0"></iframe>
+                </a>
+                <a href="http://192.168.203.151:8080/video" target="_blank" class="camera-feed-link">
+                    <iframe class="camera-feed" src="http://192.168.203.151:8080/video" frameborder="0"></iframe>
+                </a>
+                <a href="http://192.168.203.151:8080/video" target="_blank" class="camera-feed-link">
+                    <iframe class="camera-feed" src="http://192.168.203.151:8080/video" frameborder="0"></iframe>
+                </a>
+            </div>
+        </main>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>

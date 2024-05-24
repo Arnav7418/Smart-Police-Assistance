@@ -1,0 +1,96 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    background-color: rgba(226,166,8,255);
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+}
+
+.logo {
+    margin: 0;
+}
+
+.nav-links {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.nav-links li {
+    display: inline;
+    margin-right: 1rem;
+}
+
+.nav-links li a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.nav-links li a.active {
+    font-weight: bold;
+}
+
+.container {
+    display: flex;
+    padding: 1rem;
+}
+
+.sidebar {
+    flex: 1;
+    background-color: rgba(210,48,26,255);
+    color: #fff;
+    padding: 1rem;
+}
+
+.notifications {
+    list-style: none;
+    padding: 0;
+}
+
+.main-content {
+    flex: 4;
+}
+
+.camera-feeds {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1rem;
+}
+
+.camera-feed {
+    width: 100%;
+    height: 300px;
+}
+
+.camera-feed-link {
+    display: block; /* Make anchor tag a block-level element */
+}
+
+.camera-feed-link iframe {
+    pointer-events: none; /* Disable pointer events on iframe so that clicking goes through to the anchor tag */
+}
+
+.navbar .logo-container {
+    display: flex;
+    align-items: center;
+}
+
+.navbar .logo {
+    margin-right: 10px; /* Add some space between logo and text */
+    width: 50px;
+    height: auto;
+}
+
+.navbar .logo-text {
+    margin: 0;
+    font-size: 20px; /* Adjust font size as needed */
+    color: #fff; /* Set text color */
+}
+

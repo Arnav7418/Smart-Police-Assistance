@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Help Page</title>
+    <style>
+        /* Table styles */
+        table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background-color: #f2f2f2;
+            color: #333;
+        }
+        tr:nth-child(even) {
+            background-color: #f2f2f2;
+        }
+        tr:hover {
+            background-color: #ddd;
+        }
+    </style>
+</head>
+<body>
+    <h1>Database Content</h1>
+    <table border="1" id="data-table">
+        <thead>
+            <tr>
+                <th>Case Id</th>
+                <th>Date & Time</th>
+                <th>Location</th>
+                <th>Action Status</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for row in data %}
+            <tr>
+                <td>{{ row[0] }}</td>
+                <td>{{ row[1] }}</td>
+                <td>{{ row[2] }}</td>
+                <td>{{ row[3] }}</td>
+                
+                <td>
+                    <form action="/update_status" method="POST">
+                        <input type="hidden" name="case_id" value="{{ row[0] }}">
+                        <select name="new_status">
+                            <option value="Pending" {% if row[3] == 'Pending' %} selected {% endif %}>Pending</option>
+                            <option value="Action Taken" {% if row[3] == 'Action Taken' %} selected {% endif %}>Action Taken</option>
+                            <option value="Resolved" {% if row[3] == 'Resolved' %} selected {% endif %}>Resolved</option>
+                        </select>
+                        <input type="submit" value="Update">
+                    </form>
+                </td>
+            </tr>
+            {% endfor %}
+        </tbody>
+        
+    </table>
+
+    <script>
+        // Function to fetch updated data from the server
+        function fetchData() {
+            // Make an AJAX request to the server to fetch data
+            var xhr = new XMLHttpRequest();
+            xhr.onreadystatechange = function() {
+                if (xhr.readyState === XMLHttpRequest.DONE) {
+                    if (xhr.status === 200) {
+                        // Parse the JSON response and update the table
+                        var data = JSON.parse(xhr.responseText);
+                        updateTable(data);
+                    } else {
+                        console.error('Failed to fetch data:', xhr.status);
+                    }
+                }
+            };
+            xhr.open('GET', '/get_data', true);
+            xhr.send();
+        }
+
+        // Function to update the table with new data
+        function updateTable(data) {
+            var tableBody = document.querySelector('#data-table tbody');
+            tableBody.innerHTML = '';
+            data.forEach(function(row) {
+                var newRow = document.createElement('tr');
+                row.forEach(function(cell) {
+                    var newCell = document.createElement('td');
+                    newCell.textContent = cell;
+                    newRow.appendChild(newCell);
+                });
+                tableBody.appendChild(newRow);
+            });
+        }
+
+
+        // Fetch data initially and then poll for updated data every 5 seconds
+        fetchData();
+        setInterval(fetchData, 5000);
+
+        
+        // Function to trigger save action (Ctrl+S)
+        function saveData() {
+            document.body.dispatchEvent(new KeyboardEvent('keydown', { key: 's', ctrlKey: true }));
+        }
+
+        // Set interval to trigger save action every 5 seconds
+        setInterval(saveData, 5000);
+    </script>
+    </script>
+</body>
+</html>
